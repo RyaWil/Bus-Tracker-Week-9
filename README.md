@@ -1,4 +1,4 @@
-# Bus-Tracker-Week-9
+# Real Time Bus Tracker
 Bus Tracker Animation
 
 ## Title of the Project: 
